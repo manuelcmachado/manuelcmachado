@@ -1,5 +1,4 @@
 # A Short Bio #
-Hi there, I am **Manuel Machado**.<br>
 
 I work daily at my work place, with Microsoft’s BI stack (SQL SERVER, SSIS, SSRS, SSAS, and PowerBI), and Python, carrying on essential BI tasks which usually involve developing ETL/ELT pipelines, creating Dashboards and/or Reports, doing code reviews, troubleshooting and/or fixing SQL code, and occasionally, working on some ML experiments.<br> 
 **SQL, Python, Rust, and Java** are my favorite programming languages. <br>
